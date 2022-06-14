@@ -1,0 +1,66 @@
+[10:06:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:07:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:07:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:07:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:07:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:07:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:07:05] [Worker-Main-15/INFO]: Loaded 7 recipes
+[10:07:06] [Worker-Main-15/INFO]: Loaded 1141 advancements
+[10:07:14] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[10:07:14] [Server thread/INFO]: Loading properties
+[10:07:14] [Server thread/INFO]: Default game type: SURVIVAL
+[10:07:14] [Server thread/INFO]: Generating keypair
+[10:07:15] [Server thread/INFO]: Starting Minecraft server on *:41089
+[10:07:15] [Server thread/INFO]: Using epoll channel type
+[10:07:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:07:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:07:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:07:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:07:15] [Server thread/INFO]: Preparing level "e"
+[10:07:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:07:19] [Worker-Main-18/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[10:07:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[10:07:20] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:07:20] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[10:07:21] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[10:07:21] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:07:22] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[10:07:22] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[10:07:23] [Worker-Main-16/INFO]: Preparing spawn area: 0%
+[10:07:23] [Worker-Main-20/INFO]: Preparing spawn area: 0%
+[10:07:24] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[10:07:25] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[10:07:25] [Worker-Main-23/INFO]: Preparing spawn area: 0%
+[10:07:25] [Worker-Main-20/INFO]: Preparing spawn area: 1%
+[10:07:26] [Worker-Main-16/INFO]: Preparing spawn area: 3%
+[10:07:26] [Worker-Main-23/INFO]: Preparing spawn area: 4%
+[10:07:27] [Worker-Main-13/INFO]: Preparing spawn area: 4%
+[10:07:27] [Worker-Main-14/INFO]: Preparing spawn area: 5%
+[10:07:28] [Worker-Main-20/INFO]: Preparing spawn area: 13%
+[10:07:28] [Worker-Main-20/INFO]: Preparing spawn area: 19%
+[10:07:29] [Worker-Main-14/INFO]: Preparing spawn area: 27%
+[10:07:29] [Worker-Main-20/INFO]: Preparing spawn area: 30%
+[10:07:30] [Worker-Main-20/INFO]: Preparing spawn area: 41%
+[10:07:30] [Worker-Main-19/INFO]: Preparing spawn area: 46%
+[10:07:31] [Worker-Main-12/INFO]: Preparing spawn area: 46%
+[10:07:32] [Worker-Main-12/INFO]: Preparing spawn area: 68%
+[10:07:32] [Worker-Main-16/INFO]: Preparing spawn area: 68%
+[10:07:33] [Worker-Main-18/INFO]: Preparing spawn area: 91%
+[10:07:33] [Server thread/INFO]: Time elapsed: 17002 ms
+[10:07:33] [Server thread/INFO]: Done (17.481s)! For help, type "help"
+[10:07:33] [Server thread/INFO]: Starting GS4 status listener
+[10:07:33] [Server thread/INFO]: Thread Query Listener started
+[10:07:33] [Query Listener #1/INFO]: Query running on 0.0.0.0:41089
+[10:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[10:07:56] [Server thread/INFO]: MrCompoopter[/127.0.0.1:33860] logged in with entity id 218 at (-189.38299229468365, 80.0, 34.69999998807907)
+[10:07:56] [Server thread/INFO]: MrCompoopter joined the game
+[10:07:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[10:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6407ms or 128 ticks behind
+[10:10:08] [Server thread/INFO]: MrCompoopter lost connection: Disconnected
+[10:10:08] [Server thread/INFO]: MrCompoopter left the game
